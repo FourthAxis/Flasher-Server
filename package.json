@@ -1,7 +1,7 @@
 {
   "name": "flasher-server",
   "version": "1.0.0",
-  "description": "A service for the flasher app",
+  "description": "A service for the flasher app.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
