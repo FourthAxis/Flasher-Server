@@ -1,2 +1,2 @@
 # Flasher-Server
-Backend service for the flasher app
+Backend service for the flasher app.
